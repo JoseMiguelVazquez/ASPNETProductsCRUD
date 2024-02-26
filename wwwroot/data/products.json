@@ -137,7 +137,8 @@
       5,
       5,
       5,
-      5
+      5,
+      3
     ]
   },
   {
@@ -156,7 +157,13 @@
     "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
     "Title": "Heart-shaped LED",
     "Description": "custom molded heart shaped LED with sprinkles.",
-    "Ratings": null
+    "Ratings": [
+      3,
+      3,
+      3,
+      4,
+      3
+    ]
   },
   {
     "Id": "selinazawacki-soi-shirt",
@@ -165,7 +172,17 @@
     "Url": "https://www.instagram.com/p/BNvESj-j8PI/",
     "Title": "Black Sweatshirt",
     "Description": "Black sweatshirt hoody with the Sick of the Internet logo.",
-    "Ratings": null
+    "Ratings": [
+      3,
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
   },
   {
     "Id": "selinazawacki-soi-pins",
@@ -174,7 +191,10 @@
     "Url": "https://www.instagram.com/p/BNm6hZzDoEF/",
     "Title": "Sick of the Internet Pins",
     "Description": "Still some time to enter the pin/sticker giveaway! ",
-    "Ratings": null
+    "Ratings": [
+      3,
+      3
+    ]
   },
   {
     "Id": "vogueandcode-hipster-dev-bro",
