@@ -1,4 +1,5 @@
 ﻿@page
+@using ContosoCrafts.WebSite.Components
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -10,14 +11,7 @@
 </div>
 
 
-<div class="card-columns">
-    @foreach (var product in Model.Products)
-    {
-        <div class="card">
-            <img class="card-img" src="@product.Image" width="100" height="100" alt="product_image" />
-            <div class="card-body">
-                <h5 class="card-title">@product.Title</h5>
-            </div>
-        </div>
-    }
-</div>
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>  
+

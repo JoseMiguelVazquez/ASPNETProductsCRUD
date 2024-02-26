@@ -28,3 +28,4 @@ C:\Users\PWMX-MVAZQUEZ\Documents\ASPNET Core Course\ContosoCrafts\ContosoCrafts.
 C:\Users\PWMX-MVAZQUEZ\Documents\ASPNET Core Course\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\net8.0\ContosoCrafts.WebSite.pdb
 C:\Users\PWMX-MVAZQUEZ\Documents\ASPNET Core Course\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\net8.0\ContosoCrafts.WebSite.genruntimeconfig.cache
 C:\Users\PWMX-MVAZQUEZ\Documents\ASPNET Core Course\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\net8.0\ref\ContosoCrafts.WebSite.dll
+C:\Users\PWMX-MVAZQUEZ\Documents\ASPNET Core Course\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\net8.0\ContosoCrafts.WebSite.sourcelink.json
